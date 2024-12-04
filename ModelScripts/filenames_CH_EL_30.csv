@@ -1,0 +1,23 @@
+variable, name
+precipitation,Upz_P_Active30.his
+evapotranspiration,Upz_ET0_Active30.his
+upztonodes,UPZtoNodes.csv
+initwbfile,init_wbupz.csv
+landtypedrainage,ll_drainagerates.csv
+embheight,DetailWL.csv 
+networkdistQ,Network_distribution_Q.csv
+networkdistWL,Network_distribution_WL.csv
+USboundaries,U_S_Boundaries_Active30.csv
+DSboundaries,D_S_Boundaries_Active30.csv
+Tidalboundaries,Tidal_Boundaries_Active30.csv
+Salinityboundaries,Salinity_Boundaries_Active30.csv
+waterlevelAdjustments,WaterLevelAdjustments.csv
+reservoirdefinitions,reservoirdefinitions.csv
+population,population_Active30.csv
+annual_income,annual_income_Active30.csv
+other_production,other_agri_crops_production_Active30.csv
+food_import,food_import_Active30.csv
+coefficient,coefficient.csv
+SalanityDisFac,Salanity_Distribution_Active30.csv
+Level_Width_Function,Level_Width_Function.csv
+MaxDamage,MaxDamage_Active30.csv
